@@ -1,0 +1,21 @@
+body{
+    background-image: url("../images/double-bubble-dark.png");
+}
+
+.aboutIMG{
+    float: left;
+    width: 200px;
+    height: 220px;
+}
+
+.columnBG{
+    background-color: goldenrod;
+}
+
+footer{
+    position: fixed;
+    height: 60px;
+    bottom: 0;
+    width: 100%;
+}
+
