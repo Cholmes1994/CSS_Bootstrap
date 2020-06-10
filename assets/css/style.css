@@ -9,7 +9,11 @@ body{
 }
 
 .columnBG{
-    background-color: goldenrod;
+    background-color: gray;
+}
+
+.textColor{
+color: goldenrod;
 }
 
 footer{
@@ -22,5 +26,5 @@ footer{
 .portfolioIMG{
     float: left;
     width: 220px;
-    height: 240px;
+    height: 220px;
 }
