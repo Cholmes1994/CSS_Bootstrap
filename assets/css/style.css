@@ -4,7 +4,8 @@ body{
 
 .aboutIMG{
     float: left;
-   
+   width: 220px;
+   height: 220px;
 }
 
 .columnBG{
@@ -16,10 +17,11 @@ color: goldenrod;
 }
 
 footer{
-    position: fixed;
+    position: relative;;
     height: 60px;
     bottom: 0;
     width: 100%;
+    margin-top: 40px;
 }
 
 .portfolioIMG{
@@ -28,4 +30,19 @@ footer{
     height: 220px;
 }
 
+#magic{
+    color: blue;
+}
+
+#braves{
+    color: red;
+}
+
+#dolphins{
+    color: aqua;
+}
+
+#orlando{
+    color: purple;
+}
 
