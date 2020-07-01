@@ -17,7 +17,7 @@ color: goldenrod;
 }
 
 footer{
-    position: relative;;
+    position: relative;
     height: 60px;
     bottom: 0;
     width: 100%;
@@ -46,3 +46,7 @@ footer{
     color: purple;
 }
 
+.contactText{
+    color: black;
+    
+}
