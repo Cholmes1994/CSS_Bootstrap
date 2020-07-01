@@ -46,7 +46,11 @@ footer{
     color: purple;
 }
 
+h3{
+    text-decoration: underline;
+}
+
 .contactText{
     color: black;
-    
+
 }
