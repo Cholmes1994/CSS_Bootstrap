@@ -13,8 +13,10 @@ body{
 }
 
 .textColor{
-color: black;
+color:black;
 }
+
+
 
 footer{
     position: relative;
@@ -30,20 +32,21 @@ footer{
     height: 220px;
 }
 
+
 #magic{
     color:lightblue;
 }
 
 #braves{
-    color: black;
+    color:lime;
 }
 
 #dolphins{
-    color:blue;
+    color: orange;
 }
 
 #orlando{
-    color:green;
+    color: black;
 }
 
 h3{
